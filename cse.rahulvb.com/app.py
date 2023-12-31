@@ -22,7 +22,7 @@ def check_credentials(username, password):
     return valid_users.get(username) == password
 
 # Configuration for PDF to Text API
-pdf_api_key = "f8c6270e0amsh744edf71dca7302p13c97cjsn3ead3ff0877a"
+pdf_api_key = "YOUR_API_KEY"
 pdf_api_host = "pdf-to-text-converter.p.rapidapi.com"
 pdf_api_url = "https://pdf-to-text-converter.p.rapidapi.com/api/pdf-to-text/convert"
 
