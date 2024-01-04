@@ -8,14 +8,6 @@
 
 [https://www.rahulvb.com/abcd](https://www.rahulvb.com/abcd)
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://www.rahulvb.com/abcd/images/text-to-speech.png" alt="project-screenshot" width="240" height="/">
-
-<img src="https://www.rahulvb.com/abcd/images/Banner-vector.png" alt="project-screenshot" width="400" height="400/">
-
-  
-  
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
