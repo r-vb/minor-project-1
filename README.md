@@ -29,7 +29,6 @@ Please feel free to take permission from us to develop this app under MIT Open S
 
 Technologies used in the project:
 
-*   Vercel
 *   Ngrok
 *   gTTS
 *   Flask
